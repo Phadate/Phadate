@@ -18,10 +18,6 @@
   <header class="major">
     <h2>Professional Certifications</h2>
     <a href="https://learn.microsoft.com/api/credentials/share/en-us/DunsinFayode-8552/9804121AEBFCE41C?sharingId=C633EBEEC7F3D146"><img alt="Microsoft Certified: Azure Data Fundamentals" src="https://images.credly.com/size/180x180/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"></a>
-    <!-- <a href="#"><img alt="Microsoft Certified: Azure Data Fundamentals" src="https://images.credly.com/size/180x180/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"></a>
-    <a href="#" class="css-1jb9cd5-CertificateImage"><img alt="David Ugochukwu Asogwa's Data Analyst Professional certificate" src="https://res.cloudinary.com/dyd911kmh/image/upload/v1659085702/Certification/Badges%202022/data-analyst-professional-badge.svg"></a>
-    <a href="#"><img alt="Certification Badge" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/110977048"></a>
-    <a href="#"><img alt="Certification Badge" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/110557178"></a> -->
   </header>
 </section>
 
